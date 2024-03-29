@@ -1,10 +1,10 @@
 {
   "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
-  "href": "https://api-us.boxever.com/v3/flowDefinitions/6966f8d2-942a-4417-a4a0-acbc56165396",
-  "ref": "6966f8d2-942a-4417-a4a0-acbc56165396",
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/50062a08-ac15-4648-8d4b-20241a4d18f3",
+  "ref": "50062a08-ac15-4648-8d4b-20241a4d18f3",
   "name": "embedded_{scope}_dfda3f2be21143ffb246e513d55788b8_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-03-28T20:12:48.064Z",
+  "modifiedAt": "2024-03-28T20:49:16.274Z",
   "revision": 2,
   "archived": false,
   "friendlyId": "embedded_{scope}_dfda3f2be21143ffb246e513d55788b8_en",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-03-28T20:12:48.182Z",
+    "modifiedAt": "2024-03-28T20:49:16.299Z",
     "splits": [
       {
         "template": "{\"variantId\": \"dd8fb4b6f20a4c5882d86ae374b420e8\"}",
@@ -84,7 +84,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "8fdba011-e4b6-4941-a47e-7494eb6faffb",
+      "ref": "aa0d4732-d6a8-4b9c-98ed-8a09cafabb96",
       "name": "Facebook Campaign",
       "tasks": [
         {
@@ -120,7 +120,7 @@
     "startDate": "2023-12-18T15:44:36.506Z"
   },
   "revisions": {
-    "href": "https://api-us.boxever.com/v3/flowDefinitions/6966f8d2-942a-4417-a4a0-acbc56165396/revisions"
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/50062a08-ac15-4648-8d4b-20241a4d18f3/revisions"
   },
   "sampleSizeConfig": {
     "baseValue": 0.15,
