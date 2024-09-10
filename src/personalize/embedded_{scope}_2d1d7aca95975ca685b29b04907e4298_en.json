@@ -1,10 +1,10 @@
 {
-  "clientKey": "98fb257c57fd74ae8022f5e56ce81919",
-  "href": "https://api-us.boxever.com/v3/flowDefinitions/d245c717-4daf-47f9-bd8c-f1436556e5cb",
-  "ref": "d245c717-4daf-47f9-bd8c-f1436556e5cb",
+  "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/0751ce21-0276-40a8-9ac5-49874baa4408",
+  "ref": "0751ce21-0276-40a8-9ac5-49874baa4408",
   "name": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
-  "modifiedByRef": "auth0|63ed31bdc5dac322725263de",
-  "modifiedAt": "2024-07-23T17:13:03.916Z",
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2024-09-10T15:40:35.25Z",
   "revision": 2,
   "archived": false,
   "friendlyId": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-07-23T17:13:04.055Z",
+    "modifiedAt": "2024-09-10T15:40:35.391Z",
     "splits": [
       {
         "template": "{\"variantId\": \"445bdf88528b4f90a9553c836d119d04\"}",
@@ -42,7 +42,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "e8053ea2-876f-45cb-9b7b-e5002d0c0ff0",
+      "ref": "0638f596-4bd3-40e3-bbd5-8bd122ee9ca6",
       "name": "Completed Questionnaire",
       "tasks": [
         {
@@ -78,11 +78,12 @@
     "startDate": "2024-07-23T17:05:22.235Z"
   },
   "revisions": {
-    "href": "https://api-us.boxever.com/v3/flowDefinitions/d245c717-4daf-47f9-bd8c-f1436556e5cb/revisions"
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/0751ce21-0276-40a8-9ac5-49874baa4408/revisions"
   },
   "sampleSizeConfig": {
     "baseValue": 0.15,
     "minimumDetectableDifference": 0.02,
     "confidenceLevel": 0.95
-  }
+  },
+  "notificationEnabled": false
 }
