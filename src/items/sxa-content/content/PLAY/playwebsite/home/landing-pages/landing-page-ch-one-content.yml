@@ -3,7 +3,6 @@ ID: "a9a1c9e3-2f8f-4fd8-8108-521ecd783bbe"
 Parent: "4d587c56-3717-41cb-936c-5d0412a50b6b"
 Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
 Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/landing-page-ch-one-content"
-BranchID: "c21cb9f5-9d4c-4904-b199-538835128fa3"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -128,7 +127,7 @@ Languages:
       Value: Content Hub ONE Components Example
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1170e2b9-6cd6-44e0-b903-06ff62bfd1fb"
+      Value: "038c4ac9-add2-4910-aec2-a6b8bdc7bab8"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: <p>The list of athletes on this page was created in Sitecore Components Builder and uses Content Hub ONE as a data source.</p>
